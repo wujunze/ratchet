@@ -1,0 +1,19 @@
+{
+  "name": "wujunze/ratchet",
+  "description": "The Ratchet Application.",
+  "keywords": [
+    "php",
+    "Server",
+    "Asynchronous"
+  ],
+  "license": "MIT",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Panda\\": "src"
+    }
+  },
+  "require": {
+    "cboden/ratchet": "^0.4.1"
+  }
+}
